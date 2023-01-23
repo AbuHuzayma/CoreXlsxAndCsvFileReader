@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "q4zD81GD6oUBm0DWsW+x93ATdWGP3L6s2RhBN/0R6gbOys6FkDM105wt4R7S0eYsDA0nQdANRAp1i25lFU6lyQ==",
+  "success": true,
+  "projectFilePath": "D:\\GitOnlineProject\\XLSXSample\\XLSXSample\\XLSXSample\\XLSXSample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abu_h\\.nuget\\packages\\exceldatareader\\3.6.0\\exceldatareader.3.6.0.nupkg.sha512",
+    "C:\\Users\\abu_h\\.nuget\\packages\\tinycsvparser\\2.7.0\\tinycsvparser.2.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
